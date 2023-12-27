@@ -1,5 +1,5 @@
 
-
+import "./globals.css";
 export const metadata = {
   title: {
     default: 'Next.js + TypeScript Example',
