@@ -6,7 +6,7 @@ export default function Homepage() {
         <h1>Welocme to Home page</h1>
         <p>hello</p>
        
-        <div className="flex bg-red-300 gap-10 ">
+        <div className="flex gap-10 ">
           <Link href="/about"> About </Link>
           <Link href="/blog"> Blog </Link>
           <Link href="/products"> Product </Link>
